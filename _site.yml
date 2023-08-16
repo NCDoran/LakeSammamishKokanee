@@ -1,0 +1,15 @@
+name: "docs"
+navbar:
+  title: "Lake Sammamish Kokanee"
+  right:
+    - text: "About Me"
+      href: about.html
+    - text: "Angler Survey"
+      href: survey.html
+    - text: "Kokanee Work Group"
+      href: kwg.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
